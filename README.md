@@ -1,5 +1,4 @@
-# ScreenShots_Army_Project
- 
+  
 # 📁 ScreenShots_Project_Army
 
 This directory contains a collection of screenshots that illustrate the user interface and core features of the **Army Records Management System**. These images provide a visual walkthrough of the system’s functionality, helping developers, testers, and users understand how the system behaves in real usage.
